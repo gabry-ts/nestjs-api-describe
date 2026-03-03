@@ -1,1 +1,0 @@
-approveBuildsPackages: '{"@nestjs/core":"10.4.22","esbuild":"0.27.3"}'
