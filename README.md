@@ -1,6 +1,6 @@
 # nestjs-api-describe
 
-[![CI](https://github.com/gabrielepartiti/nestjs-api-describe/actions/workflows/ci.yml/badge.svg)](https://github.com/gabrielepartiti/nestjs-api-describe/actions/workflows/ci.yml)
+[![CI](https://github.com/gabry-ts/nestjs-api-describe/actions/workflows/ci.yml/badge.svg)](https://github.com/gabry-ts/nestjs-api-describe/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/nestjs-api-describe)](https://www.npmjs.com/package/nestjs-api-describe)
 
 Composite decorators for standardizing OpenAPI documentation and input validation in NestJS APIs.
