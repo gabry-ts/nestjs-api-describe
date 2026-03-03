@@ -1,0 +1,12 @@
+src/
+coverage/
+.github/
+.husky/
+.eslintrc.cjs
+.prettierrc
+.prettierignore
+tsconfig.json
+tsconfig.build.json
+tsup.config.ts
+jest.config.ts
+**/*.spec.ts
